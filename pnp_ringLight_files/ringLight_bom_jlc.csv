@@ -1,0 +1,7 @@
+"Comment","Designator","Footprint","LCSC Part #"
+"100nF","C1,C2,C3,C4,C5,C6,C7,C8,C9","C_0805_2012Metric","C49678"
+"WS2812B","D1,D2,D3,D4,D5,D6,D7,D8","LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm","C114586"
+"Connector Bot","J2","JST_XH_S3B-XH-A-1_1x03_P2.50mm_Horizontal","C163036"
+"Connector Top","J1","JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical","C144394"
+"330R","R1","R_0805_2012Metric","C17630"
+"74AHCT1G32","U1","SOT-353_SC-70-5","C43450"
