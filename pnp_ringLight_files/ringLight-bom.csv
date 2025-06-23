@@ -1,0 +1,7 @@
+Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datasheet,Part #,JLCPCB,LCSC
+1,Unpolarized capacitor,C,C1 C2 C3 C4 C5 C6 C7 C8 C9,100nF,C_0805_2012Metric,9, ,~,CC0805KRX7R9BB104,C49678,C49678
+2,RGB LED with integrated controller,WS2812B,D1 D2 D3 D4 D5 D6 D7 D8,WS2812B,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,8, ,https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf,WS2812B,C114586,C114586
+3,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x03,J2,Connector Bot,JST_XH_S3B-XH-A-1_1x03_P2.50mm_Horizontal,1, ,~,S3B-XH-A-1(LF)(SN),C163036,C163036
+4,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x03,J1,Connector Top,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,1, ,~,B3B-XH-A(LF)(SN),C144394,C144394
+5,"Resistor, small symbol",R_Small,R1,330R,R_0805_2012Metric,1, ,~,0805W8F3300T5E,C17630,C17630
+6,"Single OR Gate, Low-Voltage CMOS",74AHCT1G32,U1,74AHCT1G32,SOT-353_SC-70-5,1, ,http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf,,C43450,C43450
